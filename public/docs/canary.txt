@@ -1,0 +1,20 @@
+OpenSats has never been pressured to give up non-public information on grantees
+and forced to keep quiet about it. OpenSats has never been pressured by outside
+entities to stop funding certain people or projects.
+
+This canary is linked at [0] and will be re-signed at the beginning of the
+following months:
+
+* February
+* May
+* August
+* November
+
+We include the latest Bitcoin block hash in each update to establish that the
+signature was not pre-generated:
+
+* Height: `894742`
+* Block hash: `0000000000000000000217dbff7305f4175e052e092af37a70292ff96ff17888`
+
+[0] https://opensats.org/transparency
+

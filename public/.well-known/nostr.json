@@ -1,0 +1,20 @@
+{
+  "names": {
+    "_": "787338757fc25d65cd929394d5e7713cf43638e8d259e8dcf5c73b834eb851f2",
+    "support": "787338757fc25d65cd929394d5e7713cf43638e8d259e8dcf5c73b834eb851f2"
+  },
+  "relays": {
+    "787338757fc25d65cd929394d5e7713cf43638e8d259e8dcf5c73b834eb851f2": [
+      "wss://brb.io",
+      "wss://nostr.mutinywallet.com",
+      "wss://nostr.einundzwanzig.space",
+      "wss://relay.damus.io",
+      "wss://relay.nostr.bg",
+      "wss://nos.lol",
+      "wss://nostr-verified.wellorder.net",
+      "wss://nostr.zebedee.cloud",
+      "wss://eden.nostr.land",
+      "wss://nostr.milou.lol"
+    ]
+  }
+}

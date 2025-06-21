@@ -1,0 +1,89 @@
+---
+title: Canary
+summary: "If the canary died, it was time to get out of the mine."
+image: /static/images/avatar.png
+layout: PageLayout
+---
+
+Code is speech. No privacy, no freedom.
+
+```
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+OpenSats has never been pressured to give up non-public information on grantees
+and forced to keep quiet about it. OpenSats has never been pressured by outside
+entities to stop funding certain people or projects.
+
+This canary is linked at [0] and will be re-signed at the beginning of the
+following months:
+
+* February
+* May
+* August
+* November
+
+We include the latest Bitcoin block hash in each update to establish that the
+signature was not pre-generated:
+
+* Height: `894742`
+* Block hash: `0000000000000000000217dbff7305f4175e052e092af37a70292ff96ff17888`
+
+[0] https://opensats.org/transparency
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEgZihhTClIqCVYSQ5icSiXmml3n8FAmgTa1sACgkQicSiXmml
+3n+3xxAAk3DHsV8luDXgZx8fxyRMMDJPnZ2l9VvDNrdOOcakJYjK4pA8xPFfLOI1
+NcxX0YHDcYLGJpGC6CZyT0kbfPf6UZwa+iM0KbrIUw4YfZw4KLtpwUepAZ260Y2X
++P5nY8cMAcK9nZ5A0lYGNRKsVBb4EGNc1sx+CyKPwZFsUpkyIZ4fzlDvwL0OvKAr
+qkh9lX2/DBT9EYRSXApXLuye+0AdRNCN/zbtxFgIcUvO52wM8SU7AwRGBZwt6YYL
+fA4V+lp5ZQh+qky0iezlAgfEq6mgaG4nRj+nHwxRCYuM1vmTB2UTxDBWfN55SvLG
+e96I/NvxreZcEpYCa+GhYQcxc70spcnh7ooYv1kILzuZVYnqLqArXo6s6mjux3rO
+LkcT8rWKAumH7T3eb94A0CB6ZdTJIcs3xcLJcKxb/xywWHnWi8Z7vphNdtV6tOId
+bDpuILPR9SL49viG8A16rLncjtu8UGpLthEGKF1wmGS/f5Syc5yikn76RJYlyrCn
+JbrrIk6GWDO+aYD5NDZ2xl8/j8sxih4Kz1aD+Wc6c0+vOFqY1n04SSYp6xJx1/s6
+fioOWsBw2+GyvVii0DeWpoicglcE8kB+hUosBzpmN+ImfTsdXj+wYpXMZWPSWwfv
+zECBJoatfCDW6oWbLsFOVMovD6vrAeZCglXUa9ipMHwcA/C+JO4=
+=SW26
+-----END PGP SIGNATURE-----
+```
+
+---
+
+# Don't trust, verify
+
+1. Import Gigi's [PGP key](/about/dergigi#pgp-key):
+
+```bash
+curl https://opensats.org/docs/dergigi.pub.asc | gpg --import
+```
+
+2. Download the [signed canary statement][scs]
+3. Verify the signature: 
+
+```bash
+gpg --auto-key-retrieve --verify canary.txt.asc
+```
+
+4. You should get an output that is similar to the following (make sure to check
+the date that the canary was signed):
+
+```bash
+gpg: Signature made Wed  7 Aug 23:30:46 2024 WEST
+gpg:                using RSA key 8198A18530A522A09561243989C4A25E69A5DE7F
+gpg: Good signature from "Gigi D. <gigi@opensats.org>" [ultimate]
+```
+Unless you've taken steps to build a trust path to Gigi's key, you will see a similar warning as below. However, it can be disregarded if you've gotten "Good signature".
+
+```bash
+gpg: WARNING: This key is not certified with a trusted signature!
+gpg:          There is no indication that the signature belongs to the owner.
+Primary key fingerprint: 8198 A185 30A5 22A0 9561  2439 89C4 A25E 69A5 DE7F
+```
+
+Alternatively, you can use the [keybase](https://keybase.io/verify) to verify the signed message.
+
+Stay safe everyone, and keep building.
+
+[scs]: /docs/canary.txt.asc
