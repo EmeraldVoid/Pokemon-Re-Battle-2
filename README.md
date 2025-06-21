@@ -95,6 +95,9 @@ Re: Battle 2 (formerly known as TestFlight) is a series of Pokemon battle sim ga
     - If a pokemon faints, it is removed from your party **permaentaly**.
     - You may only catch the **first pokemon of a route** (*not applicable*)
     - When all of your pokemon faint, the run is over and you are taken back to the main menu and start over.
+- **All 9 Generations of Pokemon, moves, and items**!
+- Custom scripts & plugins created by the community
+-
 
 <br>
 
