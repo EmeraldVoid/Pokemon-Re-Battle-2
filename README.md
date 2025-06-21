@@ -32,34 +32,9 @@
 - [VIII. Support the Game](#support-the-game)
 - [IX. Disclaimer](#disclaimer)
 
-<br>
-
-
-<table border="1" cellpadding="5" cellspacing="0" align="center">
-  <tr>
-    <th colspan="2" align="center">Project Status</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/users/EmeraldVoid/projects/2">
-        <img src="https://img.shields.io/badge/Status%3A-On_Schedule-7ED321" alt="Status: ON SCHEDULE">
-      </a>
-    </td>
-    <td><em>This project is on track with no risks</em></td>
-  </tr>
-</table>
+---
 
 <br>
-
-![GitHub stars](https://img.shields.io/github/stars/emeraldvoid/Pokemon-TestFlight?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/emeraldvoid/Pokemon-TestFlight?style=flat-square)
-![Latest release](https://img.shields.io/github/v/release/emeraldvoid/Pokemon-TestFlight?style=flat-square)
-![License](https://img.shields.io/github/license/emeraldvoid/Pokemon-TestFlight?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/emeraldvoid/Pokemon-TestFlight?style=flat-square)
-![Repo Size](https://img.shields.io/github/repo-size/emeraldvoid/Pokemon-TestFlight?style=flat-square)
-![Contributors](https://img.shields.io/github/contributors/emeraldvoid/Pokemon-TestFlight?style=flat-square)
-![Forks](https://img.shields.io/github/forks/emeraldvoid/Pokemon-TestFlight?style=flat-square)
-
 <br>
 
 # What is Re: Battle?
