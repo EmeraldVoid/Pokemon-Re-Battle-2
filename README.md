@@ -1,166 +1,175 @@
 <p align="center">
-  <img src="https://i.imgur.com/X1N3ADz.png">
+  <img src="https://i.imgur.com/X1N3ADz.png" alt="Pokémon Re:Battle 2 Logo">
 </p>
 
 <p align="center">
-  A fan-made Pokémon game focused on open-world exploration and experimentation, built with Pokémon Essentials and PSDK.
+  A challenging, fan-made Pokémon battle simulator built with PSDK and RPG Maker XP. Featuring Nuzlocke rules, advanced AI, and more intense battles than a traditional Pokémon game.
   <br><br>
-  <a href="https://github.com/EmeraldVoid/Pokemon-TestFlight/releases"><strong>Download Latest Release »</strong></a>
+  <a href="https://github.com/EmeraldVoid/Pokemon-Re-Battle-2/releases"><strong>Download Latest Release »</strong></a>
   <br><br>
-  <a href="https://github.com/EmeraldVoid/Pokemon-TestFlight/issues">Report a Bug</a>
+  <a href="https://github.com/EmeraldVoid/Pokemon-Re-Battle-2/issues">Report a Bug</a>
   ·
   <a href="#faq">FAQ</a>
   ·
-  <a href="https://pokemon-test-flight.vercel.app/">Website</a>
-  ·
-  <a href="https://github.com/EmeraldVoid/Pokemon-TestFlight/discussions/categories/announcements">Announcements</a>
+  <a href="https://pokemon-re-battle-2.vercel.app/">Official Website</a>
 </p>
 
 ---
-
 <br>
 
-### Contents:
+## Contents
 
-- [I. About Pokémon TestFlight](#about-pokémon-testflight)
-- [II. Minimum Recommended Specs](#minimum-recommended-specs)
-- [III. How to Install](#how-to-install)
-- [IV. Features](#features)
-- [V. Screenshots](#screenshots)
-- [VI. FAQ's](#faqs)
-- [VII. Credits](#credits)
-- [VIII. Support the Game](#support-the-game)
-- [IX. Disclaimer](#disclaimer)
+- [About Pokémon Re:Battle 2](#about-pokémon-rebattle-2)
+- [Minimum Recommended Specs](#minimum-recommended-specs)
+- [How to Install](#how-to-install)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [FAQ](#faq)
+- [Credits](#credits)
+- [Support the Game](#support-the-game)
+- [Disclaimer](#disclaimer)
 
 ---
-
-<br>
 <br>
 
-# What is Re: Battle?
+## About Pokémon Re:Battle 2
 
-Re: Battle 2 (formerly known as TestFlight) is a series of Pokemon battle sim games developed by Pixelated Bread Game Studios & Emerald_Void. If you wish to play the first itteration of the game, you can find it [here](https://github.com/EmeraldVoid/Pokemon-TestFlight/releases).
+**Re:Battle 2** (formerly known as *TestFlight*) is a Pokémon battle simulator developed by **Pixelated Bread Game Studios** and **Emerald_Void**. If you'd like to try the original version of the game, you can find it [here](https://github.com/EmeraldVoid/Pokemon-TestFlight/releases).
 
-> [!NOTE]
-> The first iiteration of Re:Battle serves as a the primary building blocks and foundation of Re:Battle 2 so the gameplay may seem very familiar if you played Re:Battle 1. However, hopefully wiht newly added features, new interesting abttle mechanics and overall general improvement in knowledge of PSDK and RPGMaker XP, the experience of Re:Battle 2 will be mor eenjoyable.
+> **Note:**  
+> The first iteration of *Re:Battle* serves as the foundation for *Re:Battle 2*, so some gameplay elements may feel familiar if you’ve played the original. However, with newly added features, refined battle mechanics, and an overall improvement in understanding of both **PSDK** and **RPG Maker XP**, *Re:Battle 2* aims to deliver a more polished and enjoyable experience.
 
+<p align="center">
+  Learn more on the <a href="https://pokemon-re-battle-2.vercel.app/">Official Website</a>.
+</p>
 
-<h3 align="center">You can find out more about the game on the <a href="">Official Website.</h3></a>
-
-
+---
 <br>
 
-# Minimum Recommended Specs
+## Minimum Recommended Specs
 
-## Minimum
+### Minimum Requirements
 
-- **OS:** Microsoft® Windows® XP/200064-bit OS is NOT supported
-- **Processor:** PC with 800MHz Intel® Pentium® III equivalent or higher processor
-- **Memory:** At least 128 MB of system RAM
-- **Graphics Card:** 1024x768 or better video resolution in High Color mode
-- **Storage:** At least 100 MB of available hard disk space
-- **Sound Card:** DirectSound-compatible sound card
+- **OS:** Microsoft® Windows® XP/2000 (64-bit OS is NOT supported)
+- **Processor:** 800 MHz Intel® Pentium® III equivalent or higher
+- **Memory:** At least 128 MB RAM
+- **Graphics:** 1024x768 or higher resolution in High Color mode
+- **Storage:** 100 MB of available disk space
+- **Sound:** DirectSound-compatible sound card
 
-## Recommended
+### Recommended
 
-- **OS:** Microsoft® Windows® XP/Vista/764-bit OS is NOT supported
-- **Processor:** PC with 1.5GHz Intel® Pentium® 4 equivalent or higher processor
-- **Memory:** At least 256 MB of system RAM
-- **Graphics Card:** 1024x768 or better video resolution in True Color mode
-- **Storage:** At least 500 MB of available hard disk space
-- **Sound Card:** DirectSound-compatible sound card
+- **OS:** Microsoft® Windows® XP/Vista/7 (64-bit OS is NOT supported)
+- **Processor:** 1.5 GHz Intel® Pentium® 4 equivalent or higher
+- **Memory:** At least 256 MB RAM
+- **Graphics:** 1024x768 or higher resolution in True Color mode
+- **Storage:** 500 MB of available disk space
+- **Sound:** DirectSound-compatible sound card
 
-> [!NOTE]
-> *These specifications were pulled directly from the RPG Maker XP wesbite*
+> **Note:** These specifications are based on the original RPG Maker XP system requirements.
 
+---
 <br>
 
-# How to Install
+## How to Install
 
-1. Download the latest release from the GitHub page.
-2. Unzip the game folder.
+1. Download the latest release from the [GitHub Releases page](https://github.com/EmeraldVoid/Pokemon-Re-Battle-2/releases).
+2. Unzip the downloaded folder.
 3. Open the folder and run `Game.exe`.
 
+> **Important:**  
+> No installation of RPG Maker XP, PSDK, Pokémon Studio, or Pokémon Essentials is required. Everything needed to run the game is bundled in the download.
+
+---
 <br>
 
-> [!IMPORTANT]
-> _No installation of RPG Maker XP, PSDK, Pokémon Studio or Pokémon Essentials is required—everything is bundled with the game._
+## Features
 
+- **Nuzlocke Mode**
+  - Fainted Pokémon are permanently removed from your party.
+  - You may only catch the *first Pokémon per route.* (Note: This rule may be adapted depending on the game mode.)
+  - A full party wipe ends the run; you are returned to the main menu to start over.
 
-<br>
+- **All 9 Generations of Pokémon, Moves, and Items**
+  - Includes assets and mechanics from Generations 1 through 9.
 
-# Features
+- **Advanced AI and Competitive Battles**
+  - Smarter AI with competitive teams, items, and strategies.
 
- - Nuzlocke Rules
-    - If a pokemon faints, it is removed from your party **permaentaly**.
-    - You may only catch the **first pokemon of a route** (*not applicable*)
-    - When all of your pokemon faint, the run is over and you are taken back to the main menu and start over.
-- **All 9 Generations of Pokemon, moves, and items**!
-- Custom scripts & plugins created by the community
--
+- **Custom Scripts and Plugins**
+  - Built using community-developed scripts, plugins, and battle engines for enhanced features.
 
+- **Over [Insert Number] Unique Battles**
+  - Including optional challenge battles, special opponents, and more. *(More coming in future updates.)*
+
+- **No Story, Pure Battles**
+  - Focused entirely on battle mechanics, team building, and strategic gameplay.
+
+---
 <br>
 
 ## Screenshots
 
-<details open>
-    <summary>Show</summary>
-   No Screenshots Yet.
+<details>
+  <summary>Show Screenshots</summary>
+
+_No screenshots available yet._
+
 </details>
 
-
+---
 <br>
 
-# FAQ
+## FAQ
 
-### Q: What is Pokémon TestFlight?  
-**A:** A fan-made Pokémon game focused on open-world exploration and experimentation, built with PSDK/Studio.
+**Q: What is Pokémon Re:Battle 2?**  
+A: A fan-made Pokémon battle simulator focused on challenge-based gameplay and competitive battles.
 
-### Q: Is it free to play?  
-**A:** Yes! Pokémon TestFlight is 100% free.
+**Q: Is it free to play?**  
+A: Yes. Pokémon Re:Battle 2 is completely free.
 
-### Q: How do I install the game?  
-**A:** Just download the latest release, unzip the folder, and run `Game.exe`.
+**Q: How do I install the game?**  
+A: Download the latest release, unzip the folder, and run `Game.exe`.
 
-### Q: What platforms can I play this on?  
-**A:** Windows (natively) and Mac (using Wine or similar tools).
+**Q: What platforms can I play this on?**  
+A: Windows (natively). It may work on Mac using Wine or similar compatibility tools.  
 
+> **Note:** The developer does not own a Mac, so alternative methods have not been fully tested.
+
+**Q: Do I need RPG Maker or Pokémon Essentials installed?**  
+A: No. Everything you need is included in the download.
+
+**Q: I found a bug. How can I report it?**  
+A: Report bugs on the [GitHub Issues Page](https://github.com/EmeraldVoid/Pokemon-Re-Battle-2/issues).
+
+**Q: Will there be future updates?**  
+A: Currently undecided. This project primarily served as a learning tool, but future updates are possible.
+
+**Q: Who do I contact for help?**  
+A: Use the [GitHub Discussions](https://github.com/EmeraldVoid/Pokemon-Re-Battle-2/discussions) or submit an issue on the [GitHub Issues Page](https://github.com/EmeraldVoid/Pokemon-Re-Battle-2/issues).
+
+---
 <br>
 
-> [!NOTE]
-> **I do not use a Mac so there may be easier ways to do this.**
+## Credits
 
+The full credits are available [here](#).  
+
+Listing the full credits in this README would have made it too long, so they are provided in a separate file for clarity.
+
+---
 <br>
 
-### Q: Do I need to install RPG Maker or Pokémon Essentials separately?  
-**A:** Nope! Everything you need is bundled inside the game folder.
+## Support the Game
 
-### Q: I found a bug—how can I report it?  
-**A:** Submit any bugs or issues on the [GitHub Issues Page](https://github.com/EmeraldVoid/Pokemon-Re-Battle-2 /issues).
+This is a fan project made by one developer. While the game itself is completely free and non-commercial, sharing feedback, bug reports, and spreading the word is greatly appreciated.
 
-### Q: Will there be updates or patches?  
-**A:** Currently undecided. This project was primarily for learning and experimentation.
-
-### Q: Who do I contact for help with the game?  
-**A:** Reach out via the [discussions](https://github.com/EmeraldVoid/Pokemon-TestFlight/discussions/categories/q-a) or file an [issue](https://github.com/EmeraldVoid/Pokemon-TestFlight/issues)
-
-
-
+---
 <br>
 
-# Credits
-
-The full credits are available [here](https://github.com/EmeraldVoid/Pokemon-TestFlight/blob/main/credits.md). Listing everything in this repo would’ve made it a bit too cluttered.
-
-
-<br>
-
-# Disclaimer
+## Disclaimer
 
 > [!IMPORTANT]
-> This is a **non-profit fan project**, created by fans for fans.  
-Pokémon is © Nintendo, Game Freak, and The Pokémon Company.  
-No copyright infringement intended.
-
-
-
+> This is a **non-profit fan project** made by fans for fans.  
+> **Pokémon** and all related assets, trademarks, and intellectual property are the property of **Nintendo, Game Freak, and The Pokémon Company.**  
+> This project is not affiliated with or endorsed by Nintendo, Game Freak, or The Pokémon Company. No copyright infringement is intended.
