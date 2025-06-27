@@ -36,7 +36,7 @@
 
 **Re:Battle 2** (formerly known as *TestFlight*) is a Pokémon battle simulator developed by **Pixelated Bread Game Studios** and **Emerald_Void**. If you'd like to try the original version of the game, you can find it [here](https://github.com/EmeraldVoid/Pokemon-TestFlight/releases).
 
-> **Note:**  
+> [!NOTE]
 > The first iteration of *Re:Battle* serves as the foundation for *Re:Battle 2*, so some gameplay elements may feel familiar if you’ve played the original. However, with newly added features, refined battle mechanics, and an overall improvement in understanding of both **PSDK** and **RPG Maker XP**, *Re:Battle 2* aims to deliver a more polished and enjoyable experience.
 
 <p align="center">
