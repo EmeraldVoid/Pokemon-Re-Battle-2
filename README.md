@@ -66,7 +66,8 @@
 - **Storage:** 500 MB of available disk space
 - **Sound:** DirectSound-compatible sound card
 
-> **Note:** These specifications are based on the original RPG Maker XP system requirements.
+> [!NOTE] 
+> These specifications are based on the original RPG Maker XP system requirements.
 
 ---
 <br>
