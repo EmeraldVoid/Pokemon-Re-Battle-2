@@ -77,7 +77,7 @@
 2. Unzip the downloaded folder.
 3. Open the folder and run `Game.exe`.
 
-> **Important:**  
+> [!IMPORTANT] 
 > No installation of RPG Maker XP, PSDK, Pokémon Studio, or Pokémon Essentials is required. Everything needed to run the game is bundled in the download.
 
 ---
@@ -134,7 +134,8 @@ A: Download the latest release, unzip the folder, and run `Game.exe`.
 **Q: What platforms can I play this on?**  
 A: Windows (natively). It may work on Mac using Wine or similar compatibility tools.  
 
-> **Note:** The developer does not own a Mac, so alternative methods have not been fully tested.
+> [!NOTE] 
+> The developer does not own a Mac, so alternative methods have not been fully tested.
 
 **Q: Do I need RPG Maker or Pokémon Essentials installed?**  
 A: No. Everything you need is included in the download.
@@ -153,7 +154,7 @@ A: Use the [GitHub Discussions](https://github.com/EmeraldVoid/Pokemon-Re-Battle
 
 ## Credits
 
-The full credits are available [here](#).  
+### The full credits are available [here](https://github.com/EmeraldVoid/Pokemon-Re-Battle-2/blob/main/Credits.md).  
 
 Listing the full credits in this README would have made it too long, so they are provided in a separate file for clarity.
 
