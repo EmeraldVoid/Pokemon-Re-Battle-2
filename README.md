@@ -36,12 +36,14 @@
 
 **Re:Battle 2** (formerly known as *TestFlight*) is a Pokémon battle simulator developed by **Pixelated Bread Game Studios** and **Emerald_Void**. If you'd like to try the original version of the game, you can find it [here](https://github.com/EmeraldVoid/Pokemon-TestFlight/releases).
 
-> [!NOTE]
+> [!NOTE]  
 > The first iteration of *Re:Battle* serves as the foundation for *Re:Battle 2*, so some gameplay elements may feel familiar if you’ve played the original. However, with newly added features, refined battle mechanics, and an overall improvement in understanding of both **PSDK** and **RPG Maker XP**, *Re:Battle 2* aims to deliver a more polished and enjoyable experience.
 
 <p align="center">
   Learn more on the <a href="https://pokemon-re-battle-2.vercel.app/">Official Website</a>.
 </p>
+
+[Back to Top](#contents)
 
 ---
 <br>
@@ -66,8 +68,10 @@
 - **Storage:** 500 MB of available disk space
 - **Sound:** DirectSound-compatible sound card
 
-> [!NOTE] 
+> [!NOTE]
 > These specifications are based on the original RPG Maker XP system requirements.
+
+[Back to Top](#contents)
 
 ---
 <br>
@@ -78,8 +82,10 @@
 2. Unzip the downloaded folder.
 3. Open the folder and run `Game.exe`.
 
-> [!IMPORTANT] 
+> [!IMPORTANT]
 > No installation of RPG Maker XP, PSDK, Pokémon Studio, or Pokémon Essentials is required. Everything needed to run the game is bundled in the download.
+
+[Back to Top](#contents)
 
 ---
 <br>
@@ -106,8 +112,10 @@
 - **No Story, Pure Battles**
   - Focused entirely on battle mechanics, team building, and strategic gameplay.
 
+[Back to Top](#contents)
+
 ---
-<br>
+<bn>
 
 ## Screenshots
 
@@ -117,6 +125,8 @@
 _No screenshots available yet._
 
 </details>
+
+[Back to Top](#contents)
 
 ---
 <br>
@@ -150,14 +160,18 @@ A: Currently undecided. This project primarily served as a learning tool, but fu
 **Q: Who do I contact for help?**  
 A: Use the [GitHub Discussions](https://github.com/EmeraldVoid/Pokemon-Re-Battle-2/discussions) or submit an issue on the [GitHub Issues Page](https://github.com/EmeraldVoid/Pokemon-Re-Battle-2/issues).
 
+[Back to Top](#contents)
+
 ---
 <br>
 
 ## Credits
 
-### The full credits are available [here](https://github.com/EmeraldVoid/Pokemon-Re-Battle-2/blob/main/Credits.md).  
+### The full credits are available [here](https://github.com/EmeraldVoid/Pokemon-Re-Battle-2/blob/main/CREDITS.md).
 
 Listing the full credits in this README would have made it too long, so they are provided in a separate file for clarity.
+
+[Back to Top](#contents)
 
 ---
 <br>
@@ -165,6 +179,8 @@ Listing the full credits in this README would have made it too long, so they are
 ## Support the Game
 
 This is a fan project made by one developer. While the game itself is completely free and non-commercial, sharing feedback, bug reports, and spreading the word is greatly appreciated.
+
+[Back to Top](#contents)
 
 ---
 <br>
@@ -175,3 +191,5 @@ This is a fan project made by one developer. While the game itself is completely
 > This is a **non-profit fan project** made by fans for fans.  
 > **Pokémon** and all related assets, trademarks, and intellectual property are the property of **Nintendo, Game Freak, and The Pokémon Company.**  
 > This project is not affiliated with or endorsed by Nintendo, Game Freak, or The Pokémon Company. No copyright infringement is intended.
+
+[Back to Top](#contents)
