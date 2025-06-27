@@ -112,6 +112,11 @@
 - **No Story, Pure Battles**
   - Focused entirely on battle mechanics, team building, and strategic gameplay.
 
+* **Battle Variety**
+
+  * Experience a mix of single and double battles as you progress. Occasionally, you may encounter mini-bosses or, if luck is on your side, even Legendary Pokémon.
+
+
 [Back to Top](#contents)
 
 ---
