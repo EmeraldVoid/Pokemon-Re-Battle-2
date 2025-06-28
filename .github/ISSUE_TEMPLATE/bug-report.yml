@@ -43,3 +43,15 @@ body:
     attributes:
       value: |
         Thanks for reporting this issue! We will get back to you as soon as possible.
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: ✅ Checklist Before Submitting
+      description: Please confirm the following.
+      options:
+        - label: I have verified that I am using the latest version of the game.
+          required: true
+        - label: I have checked the existing [issues](https://github.com/EmeraldVoid/Pokemon-Re-Battle-2/issues) to make sure this bug has not already been reported.
+          required: true
+        - label: I have attached all relevant information, including screenshots, logs, or steps to reproduce the bug.
+          required: true
