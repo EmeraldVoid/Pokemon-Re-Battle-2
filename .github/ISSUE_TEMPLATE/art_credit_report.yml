@@ -1,81 +1,36 @@
-name: 🎨 Art Credit Issue
+name: 🪲 Art Credit Report
 description: Report if your artwork is being used without proper credit or permission.
-title: "[ART CREDIT] "
-labels: ["art credit", "investigation"]
-assignees: []
-
+labels: ["art"]
+assignees: ["emeraldvoid"]
 body:
   - type: markdown
     attributes:
       value: |
-        ## 🎨 Art Credit Report — Pokémon Re:Battle 2
-
-        Thank you for reaching out. This form is for artists or asset creators who believe their work is being used in Pokémon Re:Battle 2 **without proper credit, attribution, or permission.**
-
-        Our goal is to resolve these issues respectfully and promptly.
+       Thank you for reaching out. This form is for artists or asset creators who believe their work is being used in Pokémon Re:Battle 2 **without proper credit, attribution, or permission.** Our goal is to resolve these issues respectfully and promptly.
 
   - type: input
     id: your_name
     attributes:
       label: Your Name / Artist Handle
-      description: The name or handle you use when sharing your artwork.
-      placeholder: ex. Emerald_Void, username123
+      placeholder: The name or handle you use when sharing your artwork.
     validations:
       required: true
-
-  - type: input
+  - type: textarea
     id: contact_info
     attributes:
       label: Contact Information
-      description: (Optional) Your email, social media, or preferred contact method if you would like direct follow-up.
-      placeholder: ex. email@example.com or @username
+      placeholder: |
+        Your email, social media, or preferred contact method if you would like direct follow-up.
     validations:
-      required: false
-
+      required: true
   - type: input
     id: asset_name
     attributes:
       label: Name or Description of the Asset(s)
-      description: What artwork, sprites, icons, or assets are being used?
-      placeholder: ex. "Custom Pokémon sprite for Fakemon X"
-    validations:
-      required: true
-
+      placeholder: What artwork, sprites, icons, or assets are being used?
   - type: textarea
     id: asset_links
     attributes:
       label: Link to Original Work (if available)
-      description: Please provide links to your original art (e.g. DeviantArt, Twitter, portfolio, or file link).
-      placeholder: ex. https://deviantart.com/yourart or https://drive.google.com/yourfile
-    validations:
-      required: false
-
-  - type: textarea
-    id: location
-    attributes:
-      label: Where in the game or repository is this asset being used?
-      description: If possible, describe where your artwork appears (e.g., in-game sprite, folder name, GitHub file path, etc.).
-      placeholder: ex. "Used as overworld sprite in /Graphics/Characters/Fakemon.png"
-    validations:
-      required: true
-
-  - type: textarea
-    id: details
-    attributes:
-      label: Additional Details
-      description: Any further details about the situation. For example, whether credit was omitted, incorrect, or if you did not give permission for use.
-      placeholder: ex. "I shared this sprite on my Twitter and did not grant permission for use in fangames."
-    validations:
-      required: true
-
-  - type: checkboxes
-    id: confirmation
-    attributes:
-      label: Confirmation
-      description: Please confirm the following:
-      options:
-        - label: I am the original creator or copyright holder of the asset(s) described.
-          required: true
-        - label: I understand this report will be reviewed, and I may be contacted for clarification if needed.
-          required: true
-
+      placeholder: |
+       Please provide links to your original art (e.g. DeviantArt, Twitter, portfolio, or file link).
