@@ -26,6 +26,9 @@ Includes front sprites, back sprites, icons, and overworld sprites from various 
 ### Items and Moves
 Sourced from community datapacks and official Pokémon references where applicable.
 
+### Tilesets
+- Pokemon Essentials Tilesets
+
 ---
 <br>
 
