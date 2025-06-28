@@ -10,18 +10,23 @@
 ## Game Assets
 
 ### Battle Sprites
-Sourced from various artists on **Pokeengine.org** and other community contributors.  
-*Individual artist credits are listed based on platform listings.*
+- PixelMaster
+- jetigig
+- Ginzuishou
+- Fuzzy
+- Hyo
+- Jext
+- kyledove
 
 ### Overworld Sprites
-Sourced from **Pokeengine.org** and community contributors.
+
 
 ### Pokémon Sprites
 Includes front sprites, back sprites, icons, and overworld sprites.  
 Sourced from a combination of community assets and official resources.
 
 ### Fakémon Sprites
-Includes front sprites, back sprites, icons, and overworld sprites from various contributing artists.
+
 
 ### Items and Moves
 Sourced from community datapacks and official Pokémon references where applicable.
