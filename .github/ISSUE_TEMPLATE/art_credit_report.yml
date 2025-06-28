@@ -1,4 +1,4 @@
-name: 🪲 Art Credit Report
+name: 🎨 Art Credit Report
 description: Report if your artwork is being used without proper credit or permission.
 labels: ["art"]
 assignees: ["emeraldvoid"]
@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-       Thank you for reaching out. This form is for artists or asset creators who believe their work is being used in Pokémon Re:Battle 2 **without proper credit, attribution, or permission.** Our goal is to resolve these issues respectfully and promptly.
+       Thank you for reaching out. This form is intended for artists or asset creators who believe their work is being used in Pokémon Re:Battle 2 without proper credit, attribution, or permission. Our goal is to address and resolve these issues respectfully and promptly. We sincerely apologize if your work has not been properly credited.
 
   - type: input
     id: your_name
