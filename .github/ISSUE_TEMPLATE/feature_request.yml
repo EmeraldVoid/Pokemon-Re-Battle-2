@@ -1,5 +1,5 @@
 name: ✨ Feature Request
-description: Suggest a new feature, mechanic, improvement, or content for Pokémon TestFlight.
+description: Suggest a new feature, mechanic, improvement, or content for Pokémon Re:Battle 2.
 title: "[Feature] "
 labels: ["enhancement"]
 assignees: []
@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## ✨ Feature Request — Pokémon TestFlight
+        ## ✨ Feature Request — Pokémon Re:Battle 2
         Thank you for helping improve the game! Please describe the feature, mechanic, or content you'd like to see.
 
   - type: textarea
