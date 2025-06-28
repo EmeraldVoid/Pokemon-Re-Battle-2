@@ -1,11 +1,12 @@
 blank_issues_enabled: false
 contact_links:
-  - name: 💬 Development Blog
-    url: https://pokemon-re-battle-2.vercel.app/
-    about: Keep up to date with the latest news and updates.
-  - name: 📖 Wiki
-    url: https://github.com/EmeraldVoid/Pokemon-re-Battle-2/wiki
-    about: Check the wiki for guides, FAQs, and documentation.
-  - name: Read Before Filing an Issue
-    url: https://github.com/EmeraldVoid/Pokemon-Re-Battle-2/blob/main/filing_an_issue.md
-    about: Learn how to properly report bugs, suggest balance changes, or submit feedback.
+- name: 📄 Read Before Filing an Issue
+  url: https://github.com/EmeraldVoid/Pokemon-Re-Battle-2/blob/main/filing_an_issue.md
+  about: Learn how to properly report bugs, suggest balance changes, or submit feedback.
+- name: 💬 Development Blog
+  url: https://pokemon-re-battle-2.vercel.app/
+  about: Keep up to date with the latest news and updates.
+- name: 📖 Wiki
+  url: https://github.com/EmeraldVoid/Pokemon-re-Battle-2/wiki
+  about: Check the wiki for guides, FAQs, and documentation.
+  
