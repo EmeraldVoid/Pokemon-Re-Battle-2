@@ -94,7 +94,7 @@
 
 - **Nuzlocke Mode**
   - Fainted Pokémon are permanently removed from your party.
-  - You may only catch the *first Pokémon per route.* (Note: This rule may be adapted depending on the game mode.)
+  - You may only catch the *first Pokémon per route.*
   - A full party wipe ends the run; you are returned to the main menu to start over.
 
 - **All 9 Generations of Pokémon, Moves, and Items**
