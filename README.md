@@ -172,7 +172,7 @@ A: Use the [GitHub Discussions](https://github.com/EmeraldVoid/Pokemon-Re-Battle
 
 ## Credits
 
-### The full credits are available [here](https://github.com/EmeraldVoid/Pokemon-Re-Battle-2/blob/main/CREDITS.md).
+### The full credits are available [here](https://github.com/EmeraldVoid/Pokemon-Re-Battle-2/blob/main/Credits.md).
 
 Listing the full credits in this README would have made it too long, so they are provided in a separate file for clarity.
 
