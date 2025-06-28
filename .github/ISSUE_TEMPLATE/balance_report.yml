@@ -1,0 +1,60 @@
+name: ⚖️ Balance Report / Request
+description: Report a balance issue or suggest a balance change.
+labels: ["balance"]
+assignees: ["emeraldvoid"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please fill out the sections below to help review and address balance concerns, whether it's an overpowered move, an underwhelming ability, or anything else related to game balance.
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the balance issue or suggestion
+      placeholder: ex. "This ability feels too strong when combined with X."
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How did you encounter this? (Optional steps to replicate)
+      placeholder: |
+        ex.
+        1. Played Battle X
+        2. Noticed Y strategy was unbeatable
+        3. This combo caused Z
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What should the balance be?
+      placeholder: ex. "I think this move should have less power" or "This Pokémon should have different abilities."
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Attach any screenshots, replays, or videos (optional)
+  - type: dropdown
+    id: assign
+    attributes:
+      label: "Would you like to help work on this balance issue?"
+      options:
+        - "Yes"
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve the balance of Pokémon Re:Battle 2. Your feedback is appreciated!
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: ✅ Checklist Before Submitting
+      description: Please confirm the following.
+      options:
+        - label: I have verified that I am using the latest version of the game.
+          required: true
+        - label: I have checked the existing [issues](https://github.com/EmeraldVoid/Pokemon-Re-Battle-2/issues) to make sure this balance issue has not already been reported.
+          required: true
+        - label: I have provided enough context, examples, or explanation for the balance issue.
+          required: true

@@ -96,4 +96,4 @@ Pokémon Re:Battle 2 is a fan-made, non-commercial project. Pokémon and all ass
 <br>
 
 ## Special Thanks
-Thank you to all artists, developers, and community members whose passion and dedication to Pokémon make projects like this possible.
+Thank you to all artists, developers, and community members whose passion and dedication to Pokémon make projects like this possible. If I used a resource of your, and you do not see your name in the credits, open an [issue]()
