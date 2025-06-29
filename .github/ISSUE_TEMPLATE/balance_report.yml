@@ -1,6 +1,6 @@
 name: ⚖️ Balance Report / Request
 description: Report a balance issue or suggest a balance change.
-title: "[Balance] "
+title: "[⚖️ Balance] "
 labels: ["balance"]
 assignees: ["emeraldvoid"]
 body:
