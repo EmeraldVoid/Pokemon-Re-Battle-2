@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/5r70ic1.png" alt="Pokémon Re:Battle 2 Logo">
+  <img src="https://i.imgur.com/nVPMQZU.png" alt="Pokémon Re:Battle 2 Logo">
 </p>
 
 <p align="center">
