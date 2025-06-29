@@ -1,5 +1,6 @@
 name: 🎨 Art Credit Report
 description: Report if your artwork is being used without proper credit or permission.
+title: "[Art] "
 labels: ["art"]
 assignees: ["emeraldvoid"]
 body:
