@@ -1,0 +1,2 @@
+> [!NOTE]
+> Archived text of the Pokémon Re:Battle 2 change logs for released versions. For any issues that may remain in the current version, please see Known [Issues](https://github.com/EmeraldVoid/Pokemon-Re-Battle-2/issues).
