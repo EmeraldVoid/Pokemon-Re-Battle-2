@@ -21,6 +21,12 @@
 
 <br>
 
+| **Document Version:** | 1.0           |
+|-----------------------|---------------|
+| **Contributors:**     | Emerald_Void, |
+
+<br>
+
 <h1 align="center">Intro Cutscene Event</h1>
 
 **After selecting "Play" from the title screen, the player is presented with the following message:**

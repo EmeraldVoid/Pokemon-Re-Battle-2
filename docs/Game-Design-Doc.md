@@ -16,6 +16,12 @@
 
 <br>
 
+| **Document Version:** | 1.0           |
+|-----------------------|---------------|
+| **Contributors:**     | Emerald_Void, |
+
+<br>
+
 ## 📜 **Overview**
 
 This project is a battle-focused Pokémon game that strips away traditional storylines in favor of pure, strategic battling. Designed for competitive-minded players, it features mechanics from all nine generations, custom scripts, and a wide variety of battle formats. Built around high-stakes rules like Nuzlocke Mode, the game tests a trainer’s adaptability, team-building skills, and battle strategies.
