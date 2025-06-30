@@ -116,6 +116,9 @@
 
   * Experience a mix of single and double battles as you progress. Occasionally, you may encounter mini-bosses or, if luck is on your side, even Legendary Pokémon.
 
+* **Pokémon Mart System** 
+  - Purchase a variety of Pokémon directly from in-game shops.
+
 
 [Back to Top](#contents)
 

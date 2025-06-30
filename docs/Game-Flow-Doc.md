@@ -127,6 +127,7 @@
   * **Name Rater**
   * **Move Tutor**
   * **PC access**
+  * **Pokémon Seller**
 * Additional features are planned but not yet finalized.
 
 **Battle Arena / Battle Tower:**
