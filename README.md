@@ -98,7 +98,7 @@
   - A full party wipe ends the run; you are returned to the main menu to start over.
 
 - **All 9 Generations of Pokémon, Moves, and Items**
-  - Includes assets and mechanics from Generations 1 through 9.
+  - Includes assets and mechanics from Generations 1 through 9. (*This includes Mega Evolutions, Z-Moves, and Gigantamax*)
 
 - **Advanced AI and Competitive Battles**
   - Smarter AI with competitive teams, items, and strategies.
