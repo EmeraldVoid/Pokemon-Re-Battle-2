@@ -1,8 +1,12 @@
-<h1 align="center">Pokémon Re:Battle 2 — Credits</h1>
+<p align="center">
+  <img src="https://i.imgur.com/nVPMQZU.png" alt="Pokémon Re:Battle 2 Logo">
+</p>
 
-### Created by **Emerald_Void** (Solo Developer)
+<h1 align="center">CREDITS</h1>
 
-### Published by **Pixelated Bread Game Studios**
+#### Created by **Emerald_Void** (Solo Developer)
+
+#### Published by **Pixelated Bread Game Studios**
 
 ---
 <br>

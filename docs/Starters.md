@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/nVPMQZU.png" alt="Pokémon Re:Battle 2 Logo">
+</p>
+
 After completing the Intro Cutscene, the player can optionally choose one of three starter Pokémon. This event is not required, as the player already starts with Pokémon sent directly to their PC at the beginning of the game.
 
 - Each Pokémon starts at level 95, allowing players to use the fully evolved forms immediately if they choose to evolve them early.
