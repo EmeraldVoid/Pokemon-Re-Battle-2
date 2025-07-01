@@ -21,7 +21,7 @@
 
 <br>
 
-| **Document Version:** | 1.0           |
+| **Document Version:** | 1.0.1           |
 |-----------------------|---------------|
 | **Contributors:**     | Emerald_Void, |
 
