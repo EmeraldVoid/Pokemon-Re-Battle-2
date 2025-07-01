@@ -1,4 +1,4 @@
-After completing the Intro Cutscene, the player chooses from one of three starter Pokémon:
+After completing the Intro Cutscene, the player can optionally choose one of three starter Pokémon. This event is not required, as the player already starts with Pokémon sent directly to their PC at the beginning of the game.
 
 - Each Pokémon starts at level 95, allowing players to use the fully evolved forms immediately if they choose to evolve them early.
 - Move Tutors are available to help players fully customize each Pokémon’s moveset to suit their battle strategy.

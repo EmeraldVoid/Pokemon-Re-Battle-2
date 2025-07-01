@@ -128,6 +128,7 @@
   * **Move Tutor**
   * **PC access**
   * **Pokémon Seller**
+  * **Obtain [Starter](https://github.com/EmeraldVoid/Pokemon-Re-Battle-2/blob/main/docs/Starters.md) (optional)**
 * Additional features are planned but not yet finalized.
 
 **Battle Arena / Battle Tower:**
