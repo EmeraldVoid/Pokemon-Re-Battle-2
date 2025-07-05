@@ -1,7 +1,15 @@
-> [!IMPORTANT]
-> This is a test file.
+<p align="center"><img src="https://i.imgur.com/sSEacB9.png"></p>
 
-| [![Ep 1](thumb1.jpg)](https://youtube.com/watch?v=VIDEO_ID1) | [![Ep 2](thumb2.jpg)](https://youtube.com/watch?v=VIDEO_ID2) | [![Ep 3](thumb3.jpg)](https://youtube.com/watch?v=VIDEO_ID3) |
-|:--:|:--:|:--:|
-| **Episode 1**<br>Intro & Setup | **Episode 2**<br>Early Gameplay | **Episode 3**<br>Eventing & AI |
+---
+
+<br>
+<br>
+
+Welcome to the official hub for the development logs featured on YouTube!
+Below you'll find every episode released so far — just click a thumbnail to watch!
+
+<br>
+
+- [Episode 1: Welcome to the channel!]()
+- 
 
