@@ -11,5 +11,5 @@ Below you'll find every episode released so far — just click a thumbnail to wa
 <br>
 
 - [Episode 1: Welcome to the channel!]()
-- 
+- [Episode 2: Exploring the Early Build]()
 
