@@ -23,6 +23,7 @@
 - kyledove
 
 ### Overworld Sprites
+- Those Chests from Colosseum by Nezzy
 
 
 ### Pokémon Sprites
