@@ -24,6 +24,12 @@
 
 ### Overworld Sprites
 
+### Battlebacks
+- aveontrainer
+
+### Battle GUI
+- kuby64
+
 
 
 ### Pokémon Sprites

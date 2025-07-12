@@ -12,7 +12,7 @@ This list outlines current development tasks and features in progress.
   - [ ] Adjust round rewards item logic  
 - [ ] Tweak overall difficulty  
 - [ ] Redesign events and dialogue that don’t quite hit the mark  
-- [ ] Fix Battle GUI
+- [x] Fix Battle GUI
 - [ ] Attempt to implement *NEW* items.
 - [ ] Implement high-difficulty wild "Boss Pokémon" encounters
 - [ ] Expand the number of available *Starter Kits* at the beginning of the game. (Currently 10)
