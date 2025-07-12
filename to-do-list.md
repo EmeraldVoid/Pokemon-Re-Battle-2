@@ -15,3 +15,4 @@ This list outlines current development tasks and features in progress.
 - [ ] Fix Battle GUI
 - [ ] Attempt to implement *NEW* items.
 - [ ] Implement high-difficulty wild "Boss Pokémon" encounters
+- [ ] Expand the number of available *Starter Kits* at the beginning of the game. (Currently 10)
