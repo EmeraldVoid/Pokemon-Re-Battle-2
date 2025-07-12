@@ -3,7 +3,7 @@
 
 This list outlines current development tasks and features in progress.
 
-- [ ] Set item cap limit  
+- [ x ] Set item cap limit  
 - [ ] Design HUB world map  
 - [ ] Implement first batch of trainers (5 rounds, 25 trainers)  
 - [ ] Improve existing logic  
