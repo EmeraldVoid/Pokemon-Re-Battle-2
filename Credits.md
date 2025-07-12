@@ -23,7 +23,7 @@
 - kyledove
 
 ### Overworld Sprites
-- Those Chests from Colosseum by Nezzy
+
 
 
 ### Pokémon Sprites
@@ -38,6 +38,11 @@ Sourced from community datapacks and official Pokémon references where applicab
 
 ### Tilesets
 - Pokemon Essentials Tilesets
+
+
+### Plugins
+- Randomizer Plugin by Lexio (MVP Plugin for this project)
+- 
 
 ---
 <br>
