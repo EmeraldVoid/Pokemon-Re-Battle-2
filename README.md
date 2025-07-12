@@ -119,6 +119,8 @@
 * **Pokémon Mart System** 
   - Purchase a variety of Pokémon directly from in-game shops.
 
+* **Held Item Limit**
+- To encourage strategy and item management, players may only carry up to **10** of each item. With all battles at level 100 and trainers using powerful teams, every decision counts.
 
 [Back to Top](#contents)
 
