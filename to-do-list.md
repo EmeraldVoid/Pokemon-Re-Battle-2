@@ -7,9 +7,9 @@ This list outlines current development tasks and features in progress.
 - [ ] Design HUB world map  
 - [ ] Implement first batch of trainers (5 rounds, 25 trainers)  
 - [ ] Improve existing logic  
-  - [ ] Refine random item logic (balance & diversity)  
-  - [ ] Expand and refine starting gear pool  
-  - [ ] Adjust round rewards item logic  
+  - [x] Refine random item logic (balance & diversity)  
+  - [x] Expand and refine starting gear pool  
+  - [x] Adjust round rewards item logic  
 - [ ] Tweak overall difficulty  
 - [ ] Redesign events and dialogue that don’t quite hit the mark  
 - [x] Fix Battle GUI
