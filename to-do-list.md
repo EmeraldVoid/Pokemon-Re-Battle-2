@@ -16,3 +16,5 @@ This list outlines current development tasks and features in progress.
 - [ ] Attempt to implement *NEW* items.
 - [ ] Implement high-difficulty wild "Boss Pokémon" encounters
 - [x] Expand the number of available *Starter Kits* at the beginning of the game. (Now 20)
+- [ ] Update and refine shop and mart inventories.
+  - [ ] Eventing, NPC vendors with custom sprites, tailored inventories, and set pricing—plus additional specialty shops now in development.
