@@ -110,7 +110,7 @@
   - Including optional challenge battles, special opponents, and more. *(More coming in future updates.)*
 
 - **No Story, Pure Battles**
-  - Focused entirely on battle mechanics, team building, and strategic gameplay.
+  - Focused entirely on battle mechanics, team building, and strategic gameplay. There are a few cutscenes if something needs explaining but, is mostly a Battle Simulator.
 
 * **Battle Variety**
 

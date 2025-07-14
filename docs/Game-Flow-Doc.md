@@ -65,9 +65,12 @@
     * A full party wipe ends the run.
   * **Battle Rounds System:**
 
-    * Battles are organized into **Rounds**, each consisting of **10 consecutive battles.**
+    * Battles are organized into **Rounds**, each consisting of **5 consecutive battles.**
     * During a Round, the player cannot use Pokémon Centers. Only healing items from the bag are allowed.
-    * After completing the 10th battle, Pokémon Centers, shops, and other services become available until the next Round begins.
+    * After completing the 5th battle, Pokémon Centers, shops, and other services become available until the next Round begins.
+
+    > [!NOTE]
+    > This was change from 10 to 5 because after playtesting, 10 rounds felt too brutal.
 
 * Following the explanation:
 
